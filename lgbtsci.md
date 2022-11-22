@@ -7,5 +7,10 @@ subtitle: This page has resources for scientists and researchers who identify as
 ### LGBTIQA+ mobility resource
 
 Created by Isabella Thornton and Dr. Michelle Byrne
+for the [2022 Flux Society](https://fluxsociety.org/2022-paris/) Diversity Session, Paris, France
 
-A PDF download of this resource is available [here] (https://and-laboratory.github.io/AND-lab-site/LGBTQIAMobilityResource.pdf) 
+<object data=
+"https://and-laboratory.github.io/AND-lab-site/LGBTQIAMobilityResource.pdf" 
+                width="800" 
+                height="500"> 
+</object>

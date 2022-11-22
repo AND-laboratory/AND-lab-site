@@ -1,21 +1,12 @@
 ---
 layout: page
-title: Welcome
-subtitle: Learn about the lab, people, and links
+title: Longitudinal Analyses
 ---
 
-### The Adolescent NeuroDevelopment (AND) Lab
+### The Hitchhiker’s Guide to Longitudinal Models
 
-The AND Lab is part of [the School of Psychological Sciences](https://www.monash.edu/medicine/psych/home) at Monash University, located on Kulin Lands in Melbourne, Australia. It falls under the [Turner Institute for Brain and Mental Health](https://www.monash.edu/turner-institute). 
+My colleague Dr. Ethan McCormick created a [code companion](https://e-m-mccormick.github.io/static/longitudinal-primer/) to a paper (preprint [available here](https://psyarxiv.com/ga4qz)) that we published together with Drs. Jennifer Pfeifer, John Flournoy and Kate Mills.
 
-The lab head is Dr. Michelle Byrne, Ph.D. (she/her). Her research profile can be found [here](https://research.monash.edu/en/persons/michelle-byrne).
+The paper focuses on choices for modelling frameworks employed by developmental neuroscientists when working with longitudinal data. It includes a summary of the theory behind different models, as well as references to link neuroimaging with more traditional statistical resources and backgrounds.
 
-
-Social links for Michelle Byrne:
-- Mastodon: [https://tech.lgbt/@MichelleByrne](https://tech.lgbt/@MichelleByrne)
-- Twitter: [@24michelle](https://twitter.com/24michelle)
-
-Teaching:
-- [PSY3062](https://handbook.monash.edu/2023/units/PSY3062?year=2023) Research Methods and Theory, S2 2020, 2021, 2022
-- [PSY4210](https://handbook.monash.edu/2023/units/PSY4210?year=2023) Statistics and Data Science for Psychology, S1 2021, 2022
-- PSY4130 Developmental psychology and clinical neuroscience, S2 2021
+However, the [code companion](https://e-m-mccormick.github.io/static/longitudinal-primer/) itself is an interactive way to get hands-on experience with a simulated dataset to practice fitting longituindal data to multilevel models, generalized additive mixed models, latent curve models, and latent change score models, as well as how to handle nonlinear trajectories, time varying and invariant covariates, and more.
