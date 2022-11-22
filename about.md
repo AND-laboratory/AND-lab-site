@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: About the lab, people, and links
+title: Welcome
+subtitle: Learn about the lab, people, and links
 ---
 
 ### The Adolescent NeuroDevelopment (AND) Lab
