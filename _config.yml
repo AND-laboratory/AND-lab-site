@@ -22,6 +22,7 @@ author: Michelle Byrne
 navbar-links:
   Home: "https://and-laboratory.github.io/AND-lab-site/"
   About: "about"
+  People: "people"
   Resources:
     - Longitudinal analyses: "longitudinal"
     - Missing data: "missingdata"
