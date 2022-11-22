@@ -16,7 +16,10 @@ Once ABCD data is downloaded from the NDA website, you will have a number of dat
 All ABCD datasets use "src_subject_id" as the ID variable and "eventname" as the wave. This example is in R, and is for an intermittent release where not all of the 2 year follow up had been released from the full sample (only partial release). In our analyses, we wanted to build a latent structure of adversity data from baseline, and then use that latent structure to predict trajectories in anxiety symptoms over three waves of data. Therefore, the model building sample only needed baseline data (everyone in the study was available), and the experimental sample needed to be made up of people that had three waves available at the time of release (i.e., people that had a row of "eventname" = "2_year_follow_up_y_arm_1"). The data is in long format (each observation on a row, multiple rows per ID).
 
 
-```{r abcd_split}
+<pre>
+  <code>
+
+
 # ----------------- Model Building Sample -----------------
 
 all_data <- merge(dataset1, dataset2, by = c("src_subject_id","eventname"), 
@@ -79,5 +82,5 @@ exp_sample <- all_data[which(all_data$src_subject_id %in% exp_sample_full$src_su
 length(unique(exp_sample$src_subject_id))
 write.csv(exp_sample, file = "experimental_sample.csv")
 
-
-```
+  </code>
+</pre>
