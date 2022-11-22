@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the Adolescent NeuroDevelopment (AND) Lab at Monash University, Australia. We are part of the School of Psychological Sciences and the Turner Institute for Brain and Mental Health. The lab head is Dr. Michelle Byrne, Senior Lecturer of Developmental Cognitive Neuroscience.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This page will give you an idea of the types of projects the lab has and is conducting, the types of analyses we perform, examples of code and data visualization, and various resources and links to other information on adolescent health and development. Welcome!
