@@ -14,8 +14,6 @@ For example, we may want to build a latent model of measures that correlate firs
 Once ABCD data is downloaded from the NDA website, you will have a number of datasets depending on your variables of interest, that you will need to merge. As an example, I name two of these "dataset1" and "dataset2" in the code below. "dataset1" should be the data you need to build the model. 
 
 All ABCD datasets use "src_subject_id" as the ID variable and "eventname" as the wave. This example is in R, and is for an intermittent release where not all of the 2 year follow up had been released from the full sample (only partial release). In our analyses, we wanted to build a latent structure of adversity data from baseline, and then use that latent structure to predict trajectories in anxiety symptoms over three waves of data. Therefore, the model building sample only needed baseline data (everyone in the study was available), and the experimental sample needed to be made up of people that had three waves available at the time of release (i.e., people that had a row of "eventname" = "2_year_follow_up_y_arm_1"). The data is in long format (each observation on a row, multiple rows per ID).
-
-
 <pre>
   <code>
 
